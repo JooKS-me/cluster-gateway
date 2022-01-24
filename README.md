@@ -31,12 +31,12 @@ api-gateway solution:
 ## Image
 
 ```shell
-$ docker pull oamdev/cluster-gateway:v1.1.8 # Or other newer tags
+$ docker pull oamdev/cluster-gateway:v1.1.9 # Or other newer tags
 ```
 
 ## Documentation
 
-- __Run Local__: https://github.com/oam-dev/cluster-gateway/blob/master/docs/non-etcd-apiserver/local-run.md
+- __Run Local__: https://github.com/oam-dev/cluster-gateway/blob/master/docs/local-run.md
 
 ### Performance
 
